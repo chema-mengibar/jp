@@ -86,6 +86,16 @@ Eso no me gusta mucho.
 
 ## Frases
 
+
+たのしそうです
+Parece divertido.
+
+おいしそうです
+Parece rico.
+
+むずかしそうです
+Parece difícil.
+
 アニメが好きです。
 
 Me gusta el anime.
