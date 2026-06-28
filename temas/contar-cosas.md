@@ -76,3 +76,13 @@ Hay dos perros.
 猫がいます。
 
 Hay un gato.
+
+# ～くらい
+10ユーロくらい
+unos 10 €
+
+20にんくらい
+unas 20 personas
+
+30ぷんくらい
+unos 30 minutos
