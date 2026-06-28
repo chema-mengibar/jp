@@ -9,11 +9,6 @@ Ejemplos:
 
 Los adjetivos い van delante del sustantivo.
 
-###  A y B (adjetivos en -i)
-おいしくて
-やすくて
-
-
 ### Ejemplo
 
 あかいりんご
@@ -21,6 +16,28 @@ Los adjetivos い van delante del sustantivo.
 Manzana roja.
 
 ---
+
+###  A y B (adjetivos en -i)
+おいしくて
+やすくて
+
+やすくて おいしいです。
+Barato y rico.
+
+やすくて おいしくて うらやましいです。
+Es barato, está rico y da envidia.
+
+あたらしくて きれいです。
+Es nuevo y bonito.
+
+しずかで きれいです。
+Es tranquilo y bonito.
+
+あたらしくて きれいです。
+Puedes enlazar tantos adjetivos como quieras; solo el último lleva です.
+
+
+
 
 ## Negativo
 
