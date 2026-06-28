@@ -50,6 +50,15 @@
 
 ## Preguntas
 
+たいへんかな？
+¿Será duro?
+
+あついかな？
+¿Hará calor?
+
+だいじょうぶかな？
+¿Estará bien?
+
 しゅみはありますか。
 
 ¿Tienes algún hobby?
