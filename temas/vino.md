@@ -60,15 +60,20 @@ Beber a menudo.
 
 ---
 
-### 〜では
+### 〜では 〜を よく のみますか？
 
-En... (hablando de un lugar)
+¿En ___ bebes ___ a menudo?
 
 #### Ejemplos
 
-- ドイツでは ワインを よく のみます。
-- にほんでは ビールが にんきです。
-- スペインでは あついです。
+- どいつでは ドイツワインを よく のみますか？
+  ¿Bebes a menudo vino alemán en Alemania?
+
+- スペインでは ワインを よく のみますか？
+  ¿Bebes vino a menudo en España?
+
+- にほんでは ビールを よく のみますか？
+  ¿Bebes cerveza a menudo en Japón?
 
 ---
 
@@ -76,7 +81,9 @@ En... (hablando de un lugar)
 
 - ワイン
 - ドイツワイン
+- ビール
 - のむ
+- よく
 - やすい
 - おいしい
 - さいてい
