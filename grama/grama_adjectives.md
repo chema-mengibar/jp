@@ -9,6 +9,11 @@ Ejemplos:
 
 Los adjetivos い van delante del sustantivo.
 
+###  A y B (adjetivos en -i)
+おいしくて
+やすくて
+
+
 ### Ejemplo
 
 あかいりんご
