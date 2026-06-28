@@ -44,3 +44,6 @@
 - 季節がはっきりしています。
 - 冬は寒いです。
 - 富士山が見えます。
+- 36℃？！すごいあついですね！	Sanjuuroku-do?! Sugoi atsui desu ne!	¡¿36 °C?! ¡Hace muchísimo calor!
+- こっちはきょう、20℃ くらいでした、、、	Kocchi wa kyou, nijuu-do kurai deshita... Aquí hoy estábamos sobre los 20 °C...
+- もう6がつもおわるのに、まだ なつは こないです。	Mou rokugatsu mo owaru no ni, mada natsu wa konai desu.	Aunque junio ya casi termina, el verano todavía no llega.
