@@ -10,15 +10,47 @@ Expresa:
 
 Cambiar la terminación a la columna え + る
 
-### Ejemplo
+### Ejemplos
 
-のむ
+* のむ
+
+  * nomu
+  * beber
 
 ↓
 
-のめる
+* のめる
 
-Puedo beber.
+  * nomeru
+  * poder beber
+
+---
+
+* およぐ
+
+  * oyogu
+  * nadar
+
+↓
+
+* およげる
+
+  * oyogeru
+  * poder nadar
+
+---
+
+* はなす
+
+  * hanasu
+  * hablar
+
+↓
+
+* はなせる
+
+  * hanaseru
+  * poder hablar
 
 ---
 
@@ -26,38 +58,83 @@ Puedo beber.
 
 Quitar る y añadir られる
 
-### Ejemplo
+### Ejemplos
 
-きる
+* たべる
+
+  * taberu
+  * comer
 
 ↓
 
-きられる
+* たべられる
 
-Puedo ponerme.
+  * taberareru
+  * poder comer
+
+---
+
+* みる
+
+  * miru
+  * ver
+
+↓
+
+* みられる
+
+  * mirarareru
+  * poder ver
 
 ---
 
 ## Irregulares
 
-### 行く
+### いく
 
-いく
+* いく
+
+  * iku
+  * ir
 
 ↓
 
-いける
+* いける
 
-Puedo ir.
+  * ikeru
+  * poder ir
 
 ---
 
 ### する
 
-する
+* する
+
+  * suru
+  * hacer
 
 ↓
 
-できる
+* できる
 
-Puedo hacer.
+  * dekiru
+  * poder hacer
+
+---
+
+## Ejemplos
+
+* その かわ で およげます。
+
+  * sono kawa de oyogemasu.
+  * En ese río se puede nadar.
+
+* にほんご を はなせます。
+
+  * nihongo o hanasemasu.
+  * Puedo hablar japonés.
+
+* さかな を たべられます。
+
+  * sakana o taberaremasu.
+  * Puedo comer pescado.

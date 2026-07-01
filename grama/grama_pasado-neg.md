@@ -216,3 +216,81 @@ La transformación depende de la terminación.
 する → した
 
 くる → きた
+
+
+---
+
+# Más ejemplos de pasado (た)
+
+## のむ
+
+けさ、くすりをのみました。
+
+Esta mañana tomé medicina.
+
+---
+
+## ねる
+
+きのうなんじかんねましたか。
+
+¿Cuántas horas dormiste ayer?
+
+---
+
+## およぐ
+
+しゅうまつ プールで およいだ。
+
+Nadé en la piscina el fin de semana.
+
+---
+
+## みる
+
+ロビーで テレビを みた。
+
+Vi la televisión en el vestíbulo.
+
+---
+
+## おす
+
+エレベーターの ボタンを おした。
+
+Pulsé el botón del ascensor.
+
+---
+
+## あそぶ
+
+うちで いぬと あそんだ。
+
+Jugué con el perro en casa.
+
+---
+
+## はたらく
+
+きょうは うちで はたらいたよ。
+
+Hoy trabajé en casa.
+
+
+--- 
+
+## Ejemplos adicionales
+
+のむ → のんだ
+
+ねる → ねた
+
+およぐ → およいだ
+
+みる → みた
+
+おす → おした
+
+あそぶ → あそんだ
+
+はたらく → はたらいた
