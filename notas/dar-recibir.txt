@@ -1,0 +1,14 @@
+あげる = yo doy a otra persona.
+くれる = alguien me da (o da a mi grupo).
+もらう = recibir.
+
+
+Shiyakusho wa tetsudatte kureru kamoshiremasen.
+
+Desglose:
+
+Shiyakusho = ayuntamiento
+wa = tema
+tetsudatte = ayudando (forma て de tetsudau)
+kureru = hacerme/nos el favor de...
+kamoshiremasen = quizá

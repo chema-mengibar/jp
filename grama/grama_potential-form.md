@@ -138,3 +138,8 @@ Quitar る y añadir られる
 
   * sakana o taberaremasu.
   * Puedo comer pescado.
+
+---
+となりの ひとと いっしょに あたらしい でんきの せんを つくれますか
+Tonari no hito to issho ni atarashii denki no sen o tsukuremasu ka?
+¿Puedes construir una nueva línea eléctrica junto con tu vecino?

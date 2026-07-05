@@ -40,6 +40,9 @@
 - 素晴らしい maravilloso
 
 ## Frases
+
+
+- たいふうは こわいですね。 Taifuu wa kowai desu ne?
 - 日本は島と山が多いです。
 - 季節がはっきりしています。
 - 冬は寒いです。
