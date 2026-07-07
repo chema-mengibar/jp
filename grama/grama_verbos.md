@@ -97,3 +97,9 @@ Ejemplos:
 
 - する
 - くる
+
+
+
+# Pasado
+
+なかった (nakatta) = no hubo / no existió (pasado negativo de ある)

@@ -150,3 +150,10 @@ Persona amable.
 ゆうめいなうた
 
 Canción famosa.
+
+
+---
+Porque en japonés los adjetivos 〜い forman el negativo así:
+
+No es -> ❌ tsuyoi nakatta
+sino -> ✅ tsuyoku nakatta
