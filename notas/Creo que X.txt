@@ -1,16 +1,21 @@
 
-X と おもいます = Creo que X.
+# X と おもいます = Creo que X.
 
 Ejemplos:
 
 おもしろいと おもいます。
 Creo que es interesante.
+
 むずかしいと おもいます。
 Creo que es difícil.
+
 あした はれだと おもいます。
 Creo que mañana hará sol.
 
-
+Verbos con Con と思います
+- にほんへ いくと おもいます。 Nihon e iku to omoimasu.
+- たべます → たべると おもいます。
+- Shigatsu ni Nihon e ikitai to omoimasu. ->  de ikitai , です desaparece.
 
 ---
 mitai desu

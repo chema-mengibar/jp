@@ -103,3 +103,31 @@ Ejemplos:
 # Pasado
 
 なかった (nakatta) = no hubo / no existió (pasado negativo de ある)
+
+
+---
+Por ejemplo, con いく:
+
+| Forma |	Romanji|	Significado|
+|---|---|---|
+| Diccionario	|iku|	ir|
+| Cortés|	ikimasu|	voy|
+| Negativo|	ikimasen|	no voy|
+| Pasado|	ikimashita|	fui|
+| Pasado| negativo	ikimasen deshita|	no fui|
+| Querer|	ikitai desu|	quiero ir|
+| No querer|	ikitaku arimasen|	no quiero ir|
+| Poder|	ikemasu|	puedo ir|
+| Creo que...	|iku to omoimasu|	creo que iré|
+| Parece que...|	iku mitai desu	|parece que va|
+
+### Deseo
+ikitai desu → quiero ir
+ikitaku arimasen → no quiero ir
+### Potencial
+ikeru → poder ir (diccionario)
+ikemasu → puedo ir (cortés)
+
+Y luego puedes combinar esas formas:
+
+Ikeru to omoimasu. -> Creo que puedo ir. -> Iketai ❌ (no existe)
