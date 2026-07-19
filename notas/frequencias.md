@@ -20,6 +20,9 @@ Itsumo asa ni koohii o nomimasu.Siempre tomo café por la mañana.
 
 ## 2. Día
 
+
+---------------------------------
+
 おととい	ototoi	anteayer
 きのう	kinou	ayer
 きょう	kyou	hoy
@@ -56,6 +59,8 @@ Raishuu ryokou shimasu. -> La semana que viene viajo.
 せんげつ	sengetsu	el mes pasado
 こんげつ	kongetsu	este mes
 らいげつ	raigetsu	el mes que viene
+
+maitsuki
 
 Ejemplos:
 
